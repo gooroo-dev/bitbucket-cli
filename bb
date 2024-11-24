@@ -12,7 +12,8 @@
 #   Oleksandr Manzyuk <alexander.manzyuk@gooroo.dev>
 #
 # License:
-#   MIT License. See the LICENSE file in the project root for full license information.
+#   MIT License. See the LICENSE file in the project root for full license information:
+#   https://github.com/gooroo-dev/bitbucket-cli/blob/main/LICENSE
 #
 # Repository:
 #   https://github.com/gooroo-dev/bitbucket-cli
