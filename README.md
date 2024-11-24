@@ -16,11 +16,11 @@ export BITBUCKET_APP_PASSWORD=<app_password>  # https://bitbucket.org/account/se
 Run `bb` within the root directory of your repository.
 
 ```sh
-bb pr list                                 # List all pull requests
-bb pr info <pull_request_id>               # Get information about a specific pull request
-bb pr diff <pull_request_id>               # Get the diff of a pull request
+bb pr list                                       # List all pull requests
+bb pr info <pull_request_id>                     # Get information about the pull request
+bb pr diff <pull_request_id>                     # Get the diff of a pull request
 bb pr comment <id> <file_path> <line> <comment>  # Add a comment to a specific line
-bb pr comments <pull_request_id>           # List all comments on a pull request
+bb pr comments <pull_request_id>                 # List all comments on a pull request
 ```
 
 ---
