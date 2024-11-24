@@ -1,5 +1,5 @@
-# bitbucket-cli
-Bitbucket CLI
+# Bitbucket CLI
+
 ```
 Usage: bb pr <command> [arguments]
 
